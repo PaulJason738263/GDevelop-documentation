@@ -1,6 +1,6 @@
----
+hello
 title: Player authentication
----
+hello
 # Player authentication
 
 Allowing players to log in in your game can make the playing experience better: you can send their scores to a leaderboard, store their progress, greet them with a welcome message... It also allows to create a stronger tie between them and your game.
